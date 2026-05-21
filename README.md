@@ -12,30 +12,43 @@ Software Engineer | Full Stack Developer (MERN) | JavaScript (Advanced) | AI & S
 
 # ⚡ About Me
 
-🎓 IT Undergraduate at Vasavi College of Engineering  
-💡 Diploma in Computer Science Engineering (9.68 CGPA)  
-🚀 Passionate Full Stack Developer & Problem Solver  
-🧠 Focused on JavaScript, AI Systems & Scalable Applications  
-🎯 Goal: Build impactful software products & contribute to open source
+🎓 Information Technology Undergraduate — Vasavi College of Engineering  
+💡 Diploma in Computer Science Engineering (CGPA: 9.68)  
+🚀 Full Stack Developer focused on scalable web applications  
+🧠 Strong interest in JavaScript, AI Systems, OS, and Databases  
+🎯 Goal: Build production-ready software & contribute to open source
 
 ---
 
-# 🧠 Tech Stack (Clean UI)
+# 🧠 Skills (ATS + Visual Hybrid)
 
-## 👨‍💻 Languages
+## 👨‍💻 Programming Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,python,java,c,cpp" />
 </p>
+
+**Skills (ATS readable):**
+JavaScript, Python, Java, C, C++
+
+---
 
 ## 🌐 Full Stack Development
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css,bootstrap" />
 </p>
 
-## ⚙️ Tools
+**Skills (ATS readable):**
+React.js, Node.js, Express.js, MongoDB, HTML5, CSS3, Bootstrap
+
+---
+
+## ⚙️ Tools & Platforms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 </p>
+
+**Skills (ATS readable):**
+Git, GitHub, Linux, VS Code
 
 ---
 
@@ -43,51 +56,49 @@ Software Engineer | Full Stack Developer (MERN) | JavaScript (Advanced) | AI & S
 
 ## 🧑‍💻 Pixel Quest Technologies Pvt. Ltd
 **Student Trainee**
-- Python fundamentals & software development training  
-- Mini project development experience  
-- Debugging & problem-solving improvement  
+- Python fundamentals & programming logic
+- Mini project development
+- Debugging & problem-solving skills
 
 ---
 
 ## 📢 Swayam ED-Cell — Vasavi College of Engineering
 **Technical & Marketing Member**
-- Event coordination & outreach  
-- Team collaboration & communication  
-- Leadership & organizational skills  
+- Event coordination & outreach
+- Team collaboration
+- Communication & leadership development
 
 ---
 
-# 📂 Projects Portfolio
+# 📂 Projects
 
 ---
 
-## 🔒 Deadlock Simulator — OS Intelligence System
+## 🔒 Deadlock Simulator — Operating System Project
 <p align="center">
-  <img src="https://img.shields.io/badge/Operating%20System-Deadlock%20Simulator-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OS-Deadlock%20Simulator-red?style=for-the-badge" />
 </p>
 
-**Key Features**
-- Banker’s Algorithm (Safety Check)
+- Banker’s Algorithm (Safety Detection)
 - Resource Allocation Graph (RAG)
-- DFS-based Cycle Detection
-- Deadlock Recovery Mechanism
+- Cycle detection using DFS
+- Deadlock recovery system
 
-**Tech Stack:** C++ • Python • Streamlit • OS Concepts
+**Tech Stack:** C++ • Python • Streamlit • Operating Systems
 
 ---
 
 ## 🤖 CodeRefine — AI Code Intelligence Platform
 <p align="center">
-  <img src="https://img.shields.io/badge/AI-Code%20Analyzer-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-CodeRefine-blue?style=for-the-badge" />
 </p>
 
-**Key Features**
-- AI code debugging & optimization  
-- Multi-language support  
-- Authentication system  
-- Real-time analysis  
+- AI code debugging & optimization
+- Multi-language support
+- Authentication system
+- Real-time analysis engine
 
-**Tech Stack:** React • Node.js • Express • MongoDB • AI APIs
+**Tech Stack:** React.js • Node.js • Express.js • MongoDB • AI APIs
 
 ---
 
@@ -96,10 +107,9 @@ Software Engineer | Full Stack Developer (MERN) | JavaScript (Advanced) | AI & S
   <img src="https://img.shields.io/badge/Startup-Hub-green?style=for-the-badge" />
 </p>
 
-**Key Features**
-- Startup idea management  
-- Mentorship system  
-- Collaboration tools  
+- Idea management system
+- Mentorship & collaboration platform
+- Startup workflow support
 
 **Tech Stack:** Java • Swing • MySQL
 
@@ -107,13 +117,12 @@ Software Engineer | Full Stack Developer (MERN) | JavaScript (Advanced) | AI & S
 
 ## 🖥️ Mini OS — CPU Scheduling Simulator
 <p align="center">
-  <img src="https://img.shields.io/badge/OS-Mini%20Simulator-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OS-Mini%20OS-black?style=for-the-badge" />
 </p>
 
-**Key Features**
-- FCFS, SJF, Priority, Round Robin  
-- Gantt Chart visualization  
-- Process scheduling simulation  
+- FCFS, SJF, Priority, Round Robin
+- Gantt chart visualization
+- Process scheduling simulation
 
 **Tech Stack:** C • Data Structures • Operating Systems
 
@@ -124,17 +133,16 @@ Software Engineer | Full Stack Developer (MERN) | JavaScript (Advanced) | AI & S
   <img src="https://img.shields.io/badge/AI-LabXpert-purple?style=for-the-badge" />
 </p>
 
-**Key Features**
-- AI-based learning assistant  
-- Automated attendance system  
-- Online exams with timer  
-- Gamified quizzes & ranking  
+- AI-powered learning assistant
+- Attendance automation system
+- Online lab exams with timer
+- Gamified quizzes & ranking system
 
-**Tech Stack:** Python • Django • JavaScript • MySQL • AI
+**Tech Stack:** Python • Django • JavaScript • Bootstrap • MySQL • AI
 
 ---
 
-# 📊 GitHub Analytics (FIXED & STABLE)
+# 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YerraguntaAjayKumar&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
@@ -152,10 +160,6 @@ Software Engineer | Full Stack Developer (MERN) | JavaScript (Advanced) | AI & S
 
 # 📜 Certifications
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,java,python,mysql" />
-</p>
-
 - Linux Foundation — Linux Essentials  
 - IBM — Generative AI  
 - Cisco — Networking & Cybersecurity  
@@ -166,24 +170,24 @@ Software Engineer | Full Stack Developer (MERN) | JavaScript (Advanced) | AI & S
 
 # 🏆 Achievements
 
-- 🎓 Diploma: 9.68 CGPA (CSE)  
-- 🚀 Built multiple full-stack & system projects  
-- 🧠 Strong DSA + OS + DBMS foundation  
-- 💡 Active AI + Web Developer  
+- 🎓 Diploma: 9.68 CGPA (CSE)
+- 🚀 Built full-stack + AI + OS-level projects
+- 🧠 Strong DSA, DBMS, OS foundation
+- 💡 Active developer & continuous learner
 
 ---
 
 # 📈 Current Focus
 
-- Advanced JavaScript (ES6+, Async, APIs)  
-- MERN Stack Architecture  
-- System Design Fundamentals  
-- AI Integration in Web Apps  
-- Open Source Contribution  
+- Advanced JavaScript (Async, ES6+, APIs)
+- MERN Stack Architecture
+- System Design Basics
+- AI Integration in Web Apps
+- Open Source Contributions
 
 ---
 
-# 📬 Connect With Me
+# 📬 Connect
 
 - 📧 Email: yerraguntaajay6543@gmail.com  
 - 💼 LinkedIn: https://linkedin.com/in/ajaykumaryerragunta  
