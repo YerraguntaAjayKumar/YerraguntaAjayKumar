@@ -1,7 +1,7 @@
 <h1 align="center">Ajay Kumar Yerragunta</h1>
 
 <h3 align="center">
-🚀 Software Engineer | Full Stack (MERN) | JavaScript Advanced | AI & System Design Enthusiast
+Software Engineer | Full Stack Developer (MERN) | JavaScript (Advanced) | AI & System Design Enthusiast
 </h3>
 
 <p align="center">
@@ -10,130 +10,150 @@
 
 ---
 
-## ⚡ Tech Stack (Dynamic Visual Skills)
+# ⚡ About Me
 
-### 👨‍💻 Languages
+🎓 IT Undergraduate at Vasavi College of Engineering  
+💡 Diploma in Computer Science Engineering (9.68 CGPA)  
+🚀 Passionate Full Stack Developer & Problem Solver  
+🧠 Focused on JavaScript, AI Systems & Scalable Applications  
+🎯 Goal: Build impactful software products & contribute to open source
+
+---
+
+# 🧠 Tech Stack (Clean UI)
+
+## 👨‍💻 Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,python,java,c,cpp" />
 </p>
 
-### 🌐 Full Stack Development
+## 🌐 Full Stack Development
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css,bootstrap" />
 </p>
 
-### ⚙️ Tools & DevOps
+## ⚙️ Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 </p>
 
 ---
 
-## 🧠 Core Engineering Expertise (SEO Keywords)
+# 💼 Experience
 
-- Advanced JavaScript (ES6+, Async, DOM, APIs)
-- MERN Stack Architecture
-- REST API Development
-- AI Integration in Web Applications
-- Operating Systems (CPU Scheduling, Deadlocks)
-- Database Design (SQL + NoSQL)
-- Data Structures & Algorithms
+## 🧑‍💻 Pixel Quest Technologies Pvt. Ltd
+**Student Trainee**
+- Python fundamentals & software development training  
+- Mini project development experience  
+- Debugging & problem-solving improvement  
 
 ---
 
-## 💼 Experience Timeline
-
-### 🧑‍💻 Pixel Quest Technologies Pvt. Ltd
-- Python Development Training
-- Mini Project Implementation
-- Problem Solving & Debugging Skills
-- Software Development Workflow Exposure
+## 📢 Swayam ED-Cell — Vasavi College of Engineering
+**Technical & Marketing Member**
+- Event coordination & outreach  
+- Team collaboration & communication  
+- Leadership & organizational skills  
 
 ---
 
-### 📢 Swayam ED-Cell (Vasavi College of Engineering)
-- Technical & Event Coordination
-- Marketing & Outreach Activities
-- Team Collaboration & Leadership
+# 📂 Projects Portfolio
 
 ---
 
-## 📂 Featured Projects
-
----
-
-### 🤖 CodeRefine — AI Developer Platform
+## 🔒 Deadlock Simulator — OS Intelligence System
 <p align="center">
-  <img src="https://img.shields.io/badge/AI-Code%20Analyzer-blue?style=for-the-badge&logo=openai" />
+  <img src="https://img.shields.io/badge/Operating%20System-Deadlock%20Simulator-red?style=for-the-badge" />
 </p>
 
-- AI-powered code debugging & optimization
-- Multi-language support
-- Authentication + snippet system
-- Real-time analysis engine
-
-**Stack:** React • Node.js • Express • MongoDB • AI APIs
-
----
-
-### 🔒 Deadlock Simulator — OS Intelligence System
-<p align="center">
-  <img src="https://img.shields.io/badge/OS-Deadlock%20Simulator-red?style=for-the-badge&logo=linux" />
-</p>
-
-- Banker’s Algorithm implementation
+**Key Features**
+- Banker’s Algorithm (Safety Check)
 - Resource Allocation Graph (RAG)
-- Cycle detection using DFS
-- Deadlock recovery system
+- DFS-based Cycle Detection
+- Deadlock Recovery Mechanism
 
-**Stack:** C++ • Python • Streamlit
+**Tech Stack:** C++ • Python • Streamlit • OS Concepts
 
 ---
 
-### 💡 Entrepreneur Hub — Startup Platform
+## 🤖 CodeRefine — AI Code Intelligence Platform
 <p align="center">
-  <img src="https://img.shields.io/badge/Startup-Hub-green?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/AI-Code%20Analyzer-blue?style=for-the-badge" />
 </p>
 
-- Idea sharing system
-- Mentorship module
-- Startup collaboration tools
+**Key Features**
+- AI code debugging & optimization  
+- Multi-language support  
+- Authentication system  
+- Real-time analysis  
 
-**Stack:** Java • Swing • MySQL
+**Tech Stack:** React • Node.js • Express • MongoDB • AI APIs
 
 ---
 
-### 🖥️ Mini OS — CPU Scheduling Simulator
+## 💡 Entrepreneur Hub — Startup Platform
 <p align="center">
-  <img src="https://img.shields.io/badge/OS-Mini%20Simulator-black?style=for-the-badge&logo=windows" />
+  <img src="https://img.shields.io/badge/Startup-Hub-green?style=for-the-badge" />
 </p>
 
-- FCFS, SJF, Priority, Round Robin
-- Gantt chart visualization
-- Process scheduling simulation
+**Key Features**
+- Startup idea management  
+- Mentorship system  
+- Collaboration tools  
 
-**Stack:** C • Data Structures • OS Concepts
+**Tech Stack:** Java • Swing • MySQL
 
 ---
 
-### 🧪 LabXpert — AI Smart Lab System
+## 🖥️ Mini OS — CPU Scheduling Simulator
 <p align="center">
-  <img src="https://img.shields.io/badge/AI-LabXpert-purple?style=for-the-badge&logo=google" />
+  <img src="https://img.shields.io/badge/OS-Mini%20Simulator-black?style=for-the-badge" />
 </p>
 
-- AI-powered learning assistant
-- Automated attendance system
-- Online lab exams with timer
-- Gamified quizzes & ranking system
+**Key Features**
+- FCFS, SJF, Priority, Round Robin  
+- Gantt Chart visualization  
+- Process scheduling simulation  
 
-**Stack:** Python • Django • JS • Bootstrap • MySQL
+**Tech Stack:** C • Data Structures • Operating Systems
 
 ---
 
-## 📜 Certifications
+## 🧪 LabXpert — AI Smart Lab System
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-LabXpert-purple?style=for-the-badge" />
+</p>
+
+**Key Features**
+- AI-based learning assistant  
+- Automated attendance system  
+- Online exams with timer  
+- Gamified quizzes & ranking  
+
+**Tech Stack:** Python • Django • JavaScript • MySQL • AI
+
+---
+
+# 📊 GitHub Analytics (FIXED & STABLE)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,python,java,mysql" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YerraguntaAjayKumar&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YerraguntaAjayKumar&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YerraguntaAjayKumar&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
+
+---
+
+# 📜 Certifications
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,java,python,mysql" />
 </p>
 
 - Linux Foundation — Linux Essentials  
@@ -144,42 +164,26 @@
 
 ---
 
-## 🏆 Achievements
+# 🏆 Achievements
 
-- 🎓 Diploma: 9.68 CGPA (CSE)
-- 🚀 Built AI + Full Stack + OS-level projects
-- 🧠 Strong DSA & System Design foundation
-- 💡 Active problem solver & developer
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YerraguntaAjayKumar&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YerraguntaAjayKumar&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YerraguntaAjayKumar&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+- 🎓 Diploma: 9.68 CGPA (CSE)  
+- 🚀 Built multiple full-stack & system projects  
+- 🧠 Strong DSA + OS + DBMS foundation  
+- 💡 Active AI + Web Developer  
 
 ---
 
-## 📈 Current Focus
+# 📈 Current Focus
 
-- Advanced JavaScript (Async, Event Loop, APIs)
-- MERN Stack Scaling
-- AI Integration in Web Apps
-- System Design Basics
-- Open Source Contributions
+- Advanced JavaScript (ES6+, Async, APIs)  
+- MERN Stack Architecture  
+- System Design Fundamentals  
+- AI Integration in Web Apps  
+- Open Source Contribution  
 
 ---
 
-## 📬 Connect With Me
+# 📬 Connect With Me
 
 - 📧 Email: yerraguntaajay6543@gmail.com  
 - 💼 LinkedIn: https://linkedin.com/in/ajaykumaryerragunta  
@@ -189,5 +193,5 @@
 ---
 
 <h3 align="center">
-⚡ Build • Learn • Scale • Repeat ⚡
+⚡ Build • Learn • Optimize • Scale ⚡
 </h3>
