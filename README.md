@@ -168,11 +168,11 @@ Technical & Marketing Member
 
 # 🏆 Achievements
 
-- 🎓 Diploma CGPA: 9.68  
-- 🚀 Built multiple full-stack + AI + OS projects  
-- 🧠 Strong foundation in DSA, DBMS, OS  
-- 💡 Active learner in AI and Web Development  
-
+- 🥇 NPTEL Elite + Gold Medal in Programming in Java (91%)
+- 🎓 Diploma in CSE – CGPA: 9.68
+- 🚀 Built multiple full-stack, AI, and system-level projects
+- 🧠 Strong foundation in DSA, DBMS, Operating Systems
+- 💡 Active learner in Full Stack Development & AI Systems
 ---
 
 # 📈 Current Focus
