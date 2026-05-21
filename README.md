@@ -1,265 +1,269 @@
 <h1 align="center">Hi 👋, I'm Ajay Kumar Yerragunta</h1>
 
 <h3 align="center">
-IT Undergraduate | Full Stack Learner | Software Developer | Tech Enthusiast
+🚀 IT Undergraduate | Full Stack Developer | AI Enthusiast | Open Source Learner
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YerraguntaAjayKumar&label=Profile%20Views&color=0e75b6&style=flat" />
+  <a href="https://github.com/YerraguntaAjayKumar">
+    <img src="https://komarev.com/ghpvc/?username=YerraguntaAjayKumar&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
 </p>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-🎓 B.E Information Technology Student at Vasavi College of Engineering  
-💡 Diploma Graduate in Computer Science Engineering with 9.68 CGPA  
-🌱 Passionate about Software Development, AI/ML, Networking & Databases  
-💻 Exploring Full Stack Development, Open Source & Problem Solving  
-🎯 Goal: Become a skilled Software Engineer and build impactful projects  
+- 🎓 B.E Information Technology Student at **Vasavi College of Engineering**
+- 💡 Diploma Graduate in **Computer Science Engineering** with **9.68 CGPA**
+- 🌱 Currently learning **Full Stack Development, DSA, AI/ML & Open Source**
+- 💻 Passionate about:
+  - Software Development
+  - AI-Powered Applications
+  - Operating Systems
+  - Databases & Networking
+  - Entrepreneurship
+- 🎯 Goal: To become a skilled Software Engineer and build impactful products
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
 <a href="mailto:yerraguntaajay6543@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 <a href="https://github.com/YerraguntaAjayKumar">
-  <img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
 <a href="https://linkedin.com/in/ajaykumaryerragunta">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://leetcode.com/u/I_ajay">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 </p>
 
-📧 Email: yerraguntaajay6543@gmail.com  
-💻 GitHub: https://github.com/YerraguntaAjayKumar  
-🔗 LinkedIn: https://linkedin.com/in/ajaykumaryerragunta  
-🧠 LeetCode: https://leetcode.com/u/I_ajay  
+- 💻 GitHub: https://github.com/YerraguntaAjayKumar
+- 🔗 LinkedIn: https://linkedin.com/in/ajaykumaryerragunta
+- 🧠 LeetCode: https://leetcode.com/u/I_ajay
+- 📧 Email: yerraguntaajay6543@gmail.com
 
 ---
 
-# 💻 Programming Languages
+# 💻 Tech Stack
+
+## 👨‍💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript" />
 </p>
 
-- Python
-- Java
-- C
-- C++
-- JavaScript
-
----
-
-# 🌐 Web Development
+## 🌐 Web Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,mongodb" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,express,mongodb,mysql" />
 </p>
 
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap
-- React.js
-- Node.js
-- MongoDB
-- Responsive Web Design
-
----
-
-# 🗄️ Databases
+## ⚙️ Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 </p>
-
-- MySQL
-- MongoDB
-- SQL
-- PL/SQL
-- Database Management Systems (DBMS)
 
 ---
 
-# ⚙️ Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,windows,vscode" />
-</p>
-
-- Git & GitHub
-- Linux
-- Windows
-- VS Code
-
----
-
-# 📚 Core Computer Science Skills
+# 📚 Core Skills
 
 - Data Structures & Algorithms
-- Object-Oriented Programming (OOP)
+- Object-Oriented Programming
 - Operating Systems
+- DBMS
 - Computer Networks
-- Computer Architecture
 - Cybersecurity
-- Digital Electronics
 - Full Stack Development
-- Database Management Systems
+- AI Integration
+- REST APIs
 
 ---
 
 # 🤖 AI & Emerging Technologies
 
 - Generative AI
-- AI/ML Fundamentals
+- AI-Powered Applications
 - Prompt Engineering
-- Exploring LLM Applications
-
----
-
-# 📜 Certifications
-
-🏅 Programming in Java – NPTEL  
-🏅 Databases for Developers – Oracle  
-🏅 Cybersecurity Essentials – Cisco  
-🏅 Introduction to Networks – Cisco  
-🏅 Introduction to Linux – The Linux Foundation  
-🏅 Introduction to Generative AI – IBM  
+- AI Integration using APIs
+- LLM-based Assistance Systems
 
 ---
 
 # 💼 Experience
 
-## 💻 Student Trainee – Pixel Quest Technologies
+## 💻 Student Trainee — Pixel Quest Technologies
 📅 Nov 2024 – May 2025
 
 - Learned Python fundamentals
-- Developed mini projects
+- Built mini projects
 - Improved coding and problem-solving skills
 
 ---
 
-## 📢 Marketing Department Member – Swayam ED-Cell
+## 📢 Marketing Department Member — Swayam ED-Cell
 📅 Oct 2025 – Present
 
 - Contributed to event promotions
 - Participated in marketing activities
-- Improved communication and teamwork skills
+- Improved teamwork & communication skills
 
 ---
 
-# 📌 Projects
+# 📌 Featured Projects
 
-## 🖥️ Mini OS
-- Console-based CPU Scheduling Simulator in C
-- Implemented FCFS, SJF, and Priority Scheduling algorithms
+---
 
-### Technologies Used:
-`C` `Operating Systems`
+## 🧪 LabXpert — AI-Powered Smart Lab Platform
+
+### 📖 Overview
+LabXpert is an AI-powered educational platform designed to transform traditional computer laboratories into interactive smart learning environments.
+
+### ✨ Features
+- AI-powered coding assistance
+- Automated attendance system
+- Interactive lab examinations
+- Time-bound coding tests
+- Automated correction system
+- Subject-based games & quizzes
+- Dashboard rankings
+- Problem-solving practice platform
+
+### 🛠️ Technologies Used
+`Python` `Django` `HTML` `CSS` `JavaScript` `Bootstrap` `MySQL` `AI APIs`
+
+---
+
+## 🖥️ Mini OS — CPU Scheduling Simulator
+
+### 📖 Overview
+A Mini Operating System simulator implementing multiple CPU scheduling algorithms with process management visualization.
+
+### ⚡ Algorithms Implemented
+- FCFS
+- SJF
+- Priority Scheduling
+- Round Robin
+
+### ✨ Features
+- Gantt Chart generation
+- Execution trace visualization
+- Waiting time calculation
+- Turnaround time analysis
+- Queue, Stack & BST integration
+
+### 🛠️ Technologies Used
+`C` `Operating Systems` `Data Structures`
 
 ---
 
 ## 💡 Entrepreneur Hub
-- Java-based application for sharing business ideas
-- Implemented Object-Oriented Programming concepts
 
-### Technologies Used:
-`Java` `OOP`
+### 📖 Overview
+A centralized platform designed to support startups and aspiring entrepreneurs through mentorship, networking, and business management tools.
 
----
+### ✨ Features
+- Startup management
+- Mentorship support
+- Funding & networking system
+- Business planning assistance
+- Resource sharing platform
 
-## 🌐 LabXpert
-- Responsive laboratory management web application
-- Interactive frontend user interface
-
-### Technologies Used:
-`HTML` `CSS` `JavaScript`
-
----
-
-# 📈 Currently Learning
-
-- Data Structures & Algorithms
-- Full Stack Development
-- Open Source Contribution
-- AI/ML Concepts
-- Advanced Java
-- React.js & Node.js
+### 🛠️ Technologies Used
+`Java` `Java Swing` `MySQL`
 
 ---
 
-# 🏆 Achievements
+## 🤖 CodeRefine — AI Code Analyzer
 
-🏅 Secured 9.68 CGPA in Diploma (CSE)  
-🏅 Actively solving coding problems and improving DSA skills  
-🏅 Building real-world projects and exploring new technologies  
+### 📖 Overview
+CodeRefine is an AI-powered full-stack application that helps developers debug, optimize, and understand code efficiently.
+
+### ✨ Features
+- AI-based debugging
+- Performance optimization
+- Code explanation
+- Multi-language support
+- Snippet management
+- Authentication system
+- Real-time code analysis
+
+### 🛠️ Technologies Used
+`React.js` `Node.js` `Express.js` `MongoDB` `Bootstrap` `JWT` `Groq API`
 
 ---
 
-# ⚡ Tech Stack
+## 🔒 Deadlock Prevention & Recovery Simulator
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 📖 Overview
+An intelligent simulator demonstrating deadlock prevention, detection, and recovery mechanisms in Operating Systems.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### ⚡ Algorithms Used
+- Banker’s Algorithm
+- Resource Allocation Graph
+- DFS Cycle Detection
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+### ✨ Features
+- Safe sequence generation
+- Deadlock detection
+- Recovery mechanism
+- Interactive simulation UI
+- Graph-based analysis
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+### 🛠️ Technologies Used
+`C++` `Python` `Streamlit`
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+---
 
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+# 📜 Certifications
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+🏅 Programming in Java — NPTEL  
+🏅 Databases for Developers — Oracle  
+🏅 Cybersecurity Essentials — Cisco  
+🏅 Introduction to Networks — Cisco  
+🏅 Introduction to Linux — The Linux Foundation  
+🏅 Introduction to Generative AI — IBM  
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YerraguntaAjayKumar&show_icons=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YerraguntaAjayKumar&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YerraguntaAjayKumar&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YerraguntaAjayKumar&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YerraguntaAjayKumar&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YerraguntaAjayKumar&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+# 🏆 Achievements
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YerraguntaAjayKumar/YerraguntaAjayKumar/output/github-contribution-grid-snake.svg" />
-</p>
+- 🎓 Secured **9.68 CGPA** in Diploma (CSE)
+- 💻 Building AI-powered & Full Stack projects
+- 📚 Actively learning DSA & System Design
+- 🌱 Exploring Open Source Contributions
+
+---
+
+# 📈 Currently Learning
+
+- MERN Stack Development
+- Data Structures & Algorithms
+- Advanced Java
+- AI/ML Concepts
+- Open Source Contribution
 
 ---
 
