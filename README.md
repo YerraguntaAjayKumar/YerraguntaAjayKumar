@@ -1,101 +1,220 @@
 <h1 align="center">Hi 👋, I'm Ajay Kumar Yerragunta</h1>
-<h3 align="center">IT Undergraduate | Software Developer | Tech Enthusiast</h3>
+
+<h3 align="center">
+IT Undergraduate | Software Developer | Open Source Learner | Tech Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YerraguntaAjayKumar&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=YerraguntaAjayKumar&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🎓 Pursuing **B.E in Information Technology** at Vasavi College of Engineering
-- 💡 Diploma Graduate in **Computer Science Engineering** with **9.68 CGPA**
-- 🌱 Currently learning:
-  - Data Structures & Algorithms
-  - Full Stack Development
-  - AI/ML Fundamentals
-  - Open Source Contributions
-- 💻 Interested in:
-  - Software Development
-  - Networking
-  - Databases
-  - AI/ML
-  - Entrepreneurship
-- 🎯 Goal: Become a skilled Software Engineer & contribute to impactful projects
+🎓 B.E Information Technology Student at Vasavi College of Engineering  
+💡 Diploma Graduate in Computer Science Engineering with 9.68 CGPA  
+🌱 Passionate about Software Development, AI/ML, Networking & Databases  
+💻 Exploring Full Stack Development, Open Source & Problem Solving  
+🎯 Goal: Become a skilled Software Engineer and build impactful tech solutions  
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Skills & Technologies
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+## 👨‍💻 Programming Languages
 
-### Web Technologies
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript" />
+</p>
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+- Python
+- Java
+- C
+- C++
+- JavaScript
 
 ---
 
-## 📌 Projects
+## 🌐 Web Development
 
-### 🖥️ Mini OS
-- Console-based CPU Scheduling Simulator in C
-- Implemented FCFS, SJF, Priority Scheduling algorithms
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
-### 💡 Entrepreneur Hub
-- Java-based application for sharing business ideas
-- Implemented Object-Oriented Programming concepts
-
-### 🌐 LabXpert
-- Responsive web application for laboratory management
-- Interactive UI using HTML, CSS, JavaScript
+- HTML5
+- CSS3
+- JavaScript
+- Responsive UI Design
 
 ---
 
-## 📜 Certifications
+## 🗄️ Databases
 
-- 🐧 Introduction to Linux – The Linux Foundation
-- 🤖 Introduction to Generative AI – IBM
-- 🌐 Introduction to Networks – Cisco
-- 🔐 Cybersecurity Essentials – Cisco
-- ☕ Programming in Java – NPTEL
-- 🗄️ Databases for Developers – Oracle
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+- MySQL
+- SQL
+- PL/SQL
+- Database Management Systems (DBMS)
 
 ---
 
-## 📈 GitHub Stats
+## ⚙️ Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,windows,vscode" />
+</p>
+
+- Git & GitHub
+- Linux
+- Windows
+- VS Code
+
+---
+
+## 📚 Core Computer Science Subjects
+
+- Data Structures
+- Object-Oriented Programming (OOP)
+- Operating Systems
+- Computer Networks
+- Computer Architecture
+- Cybersecurity
+- Digital Electronics
+- Full Stack Development
+- Database Management Systems
+
+---
+
+## 🤖 AI & Emerging Technologies
+
+- Generative AI
+- AI/ML Fundamentals
+- Prompt Engineering
+- Exploring LLM Applications
+
+---
+
+# 📜 Certifications
+
+🏅 Programming in Java – NPTEL  
+🏅 Databases for Developers – Oracle  
+🏅 Cybersecurity Essentials – Cisco  
+🏅 Introduction to Networks – Cisco  
+🏅 Introduction to Linux – The Linux Foundation  
+🏅 Introduction to Generative AI – IBM  
+
+---
+
+# 💼 Experience
+
+## 💻 Student Trainee – Pixel Quest Technologies
+📅 Nov 2024 – May 2025
+
+- Learned Python fundamentals
+- Built mini projects
+- Improved problem-solving and coding skills
+
+---
+
+## 📢 Marketing Department Member – Swayam ED-Cell
+📅 Oct 2025 – Present
+
+- Contributed to event promotions
+- Participated in marketing activities
+- Improved communication and teamwork skills
+
+---
+
+# 📌 Projects
+
+## 🖥️ Mini OS
+- Console-based Operating System simulation in C
+- Implemented CPU Scheduling Algorithms
+
+### Technologies Used:
+`C` `Operating Systems`
+
+---
+
+## 💡 Entrepreneur Hub
+- Java application for sharing business ideas
+- Implemented OOP concepts
+
+### Technologies Used:
+`Java` `OOP`
+
+---
+
+## 🌐 LabXpert
+- Responsive laboratory management web application
+- Interactive frontend UI
+
+### Technologies Used:
+`HTML` `CSS` `JavaScript`
+
+---
+
+# 📈 Currently Learning
+
+- Data Structures & Algorithms
+- Full Stack Development
+- Open Source Contribution
+- AI/ML Concepts
+- Advanced Java
+
+---
+
+# 🏆 Achievements
+
+🏅 Secured 9.68 CGPA in Diploma (CSE)  
+🏅 Actively solving coding problems and improving DSA skills  
+🏅 Building real-world projects and exploring new technologies  
+
+---
+
+# 🌍 Connect With Me
+
+<p align="left">
+<a href="mailto:yerraguntaajay6543@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://github.com/YerraguntaAjayKumar">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com/in/ajaykumaryerragunta">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+</p>
+
+📧 Email: yerraguntaajay6543@gmail.com  
+💼 LinkedIn: https://linkedin.com/in/ajaykumaryerragunta  
+💻 GitHub: https://github.com/YerraguntaAjayKumar  
+🧠 LeetCode: https://leetcode.com/u/I_ajay  
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YerraguntaAjayKumar&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YerraguntaAjayKumar&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YerraguntaAjayKumar&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YerraguntaAjayKumar&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YerraguntaAjayKumar&layout=compact&theme=tokyonight" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YerraguntaAjayKumar&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
-
-- GitHub: https://github.com/YerraguntaAjayKumar
-- LinkedIn: https://linkedin.com/in/ajaykumaryerragunta
-- LeetCode: https://leetcode.com/u/I_ajay
-- Email: yerraguntaajay6543@gmail.com
-
----
-
-<h3 align="center">✨ “Code. Learn. Build. Repeat.” ✨</h3>
+<h3 align="center">
+✨ Code • Learn • Build • Repeat ✨
+</h3>
