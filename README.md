@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ajay Kumar Yerragunta</h1>
 
 <h3 align="center">
-IT Undergraduate | Software Developer | Open Source Learner | Tech Enthusiast
+IT Undergraduate | Full Stack Learner | Software Developer | Tech Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YerraguntaAjayKumar&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=YerraguntaAjayKumar&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -16,13 +16,38 @@ IT Undergraduate | Software Developer | Open Source Learner | Tech Enthusiast
 💡 Diploma Graduate in Computer Science Engineering with 9.68 CGPA  
 🌱 Passionate about Software Development, AI/ML, Networking & Databases  
 💻 Exploring Full Stack Development, Open Source & Problem Solving  
-🎯 Goal: Become a skilled Software Engineer and build impactful tech solutions  
+🎯 Goal: Become a skilled Software Engineer and build impactful projects  
 
 ---
 
-# 🛠️ Skills & Technologies
+# 🌐 Connect With Me
 
-## 👨‍💻 Programming Languages
+<p align="left">
+<a href="mailto:yerraguntaajay6543@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://github.com/YerraguntaAjayKumar">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com/in/ajaykumaryerragunta">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://leetcode.com/u/I_ajay">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="48" height="48"/>
+</a>
+</p>
+
+📧 Email: yerraguntaajay6543@gmail.com  
+💻 GitHub: https://github.com/YerraguntaAjayKumar  
+🔗 LinkedIn: https://linkedin.com/in/ajaykumaryerragunta  
+🧠 LeetCode: https://leetcode.com/u/I_ajay  
+
+---
+
+# 💻 Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript" />
@@ -36,33 +61,38 @@ IT Undergraduate | Software Developer | Open Source Learner | Tech Enthusiast
 
 ---
 
-## 🌐 Web Development
+# 🌐 Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,mongodb" />
 </p>
 
 - HTML5
 - CSS3
 - JavaScript
-- Responsive UI Design
+- Bootstrap
+- React.js
+- Node.js
+- MongoDB
+- Responsive Web Design
 
 ---
 
-## 🗄️ Databases
+# 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 - MySQL
+- MongoDB
 - SQL
 - PL/SQL
 - Database Management Systems (DBMS)
 
 ---
 
-## ⚙️ Tools & Platforms
+# ⚙️ Tools & Platforms
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,linux,windows,vscode" />
@@ -75,9 +105,9 @@ IT Undergraduate | Software Developer | Open Source Learner | Tech Enthusiast
 
 ---
 
-## 📚 Core Computer Science Subjects
+# 📚 Core Computer Science Skills
 
-- Data Structures
+- Data Structures & Algorithms
 - Object-Oriented Programming (OOP)
 - Operating Systems
 - Computer Networks
@@ -89,7 +119,7 @@ IT Undergraduate | Software Developer | Open Source Learner | Tech Enthusiast
 
 ---
 
-## 🤖 AI & Emerging Technologies
+# 🤖 AI & Emerging Technologies
 
 - Generative AI
 - AI/ML Fundamentals
@@ -115,8 +145,8 @@ IT Undergraduate | Software Developer | Open Source Learner | Tech Enthusiast
 📅 Nov 2024 – May 2025
 
 - Learned Python fundamentals
-- Built mini projects
-- Improved problem-solving and coding skills
+- Developed mini projects
+- Improved coding and problem-solving skills
 
 ---
 
@@ -132,8 +162,8 @@ IT Undergraduate | Software Developer | Open Source Learner | Tech Enthusiast
 # 📌 Projects
 
 ## 🖥️ Mini OS
-- Console-based Operating System simulation in C
-- Implemented CPU Scheduling Algorithms
+- Console-based CPU Scheduling Simulator in C
+- Implemented FCFS, SJF, and Priority Scheduling algorithms
 
 ### Technologies Used:
 `C` `Operating Systems`
@@ -141,8 +171,8 @@ IT Undergraduate | Software Developer | Open Source Learner | Tech Enthusiast
 ---
 
 ## 💡 Entrepreneur Hub
-- Java application for sharing business ideas
-- Implemented OOP concepts
+- Java-based application for sharing business ideas
+- Implemented Object-Oriented Programming concepts
 
 ### Technologies Used:
 `Java` `OOP`
@@ -151,7 +181,7 @@ IT Undergraduate | Software Developer | Open Source Learner | Tech Enthusiast
 
 ## 🌐 LabXpert
 - Responsive laboratory management web application
-- Interactive frontend UI
+- Interactive frontend user interface
 
 ### Technologies Used:
 `HTML` `CSS` `JavaScript`
@@ -165,6 +195,7 @@ IT Undergraduate | Software Developer | Open Source Learner | Tech Enthusiast
 - Open Source Contribution
 - AI/ML Concepts
 - Advanced Java
+- React.js & Node.js
 
 ---
 
@@ -176,26 +207,35 @@ IT Undergraduate | Software Developer | Open Source Learner | Tech Enthusiast
 
 ---
 
-# 🌍 Connect With Me
+# ⚡ Tech Stack
 
-<p align="left">
-<a href="mailto:yerraguntaajay6543@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<a href="https://github.com/YerraguntaAjayKumar">
-  <img src="https://skillicons.dev/icons?i=github" />
-</a>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-<a href="https://linkedin.com/in/ajaykumaryerragunta">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-</p>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-📧 Email: yerraguntaajay6543@gmail.com  
-💼 LinkedIn: https://linkedin.com/in/ajaykumaryerragunta  
-💻 GitHub: https://github.com/YerraguntaAjayKumar  
-🧠 LeetCode: https://leetcode.com/u/I_ajay  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -211,6 +251,14 @@ IT Undergraduate | Software Developer | Open Source Learner | Tech Enthusiast
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YerraguntaAjayKumar&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YerraguntaAjayKumar/YerraguntaAjayKumar/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
