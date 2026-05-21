@@ -1,272 +1,228 @@
-<h1 align="center">Hi 👋, I'm Ajay Kumar Yerragunta</h1>
+<h1 align="center">Ajay Kumar Yerragunta</h1>
 
 <h3 align="center">
-🚀 IT Undergraduate | Full Stack Developer | AI Enthusiast | Open Source Learner
+Software Engineer | Full Stack Developer (MERN) | AI Enthusiast | Problem Solver
 </h3>
 
 <p align="center">
-  <a href="https://github.com/YerraguntaAjayKumar">
-    <img src="https://komarev.com/ghpvc/?username=YerraguntaAjayKumar&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=YerraguntaAjayKumar&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 📌 Professional Summary
 
-- 🎓 B.E Information Technology Student at **Vasavi College of Engineering**
-- 💡 Diploma Graduate in **Computer Science Engineering** with **9.68 CGPA**
-- 🌱 Currently learning **Full Stack Development, DSA, AI/ML & Open Source**
-- 💻 Passionate about:
-  - Software Development
-  - AI-Powered Applications
-  - Operating Systems
-  - Databases & Networking
-  - Entrepreneurship
-- 🎯 Goal: To become a skilled Software Engineer and build impactful products
+Motivated **Information Technology undergraduate** with strong foundation in **Computer Science Engineering** and hands-on experience in **full-stack development, AI-based systems, operating systems, and database applications**.
+
+Passionate about building scalable applications using modern technologies and continuously improving skills in **software engineering, system design, and artificial intelligence**.
 
 ---
 
-## 🌐 Connect With Me
+## 🚀 Core Expertise (SEO Keywords)
 
-<p align="left">
-<a href="mailto:yerraguntaajay6543@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-<a href="https://github.com/YerraguntaAjayKumar">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://linkedin.com/in/ajaykumaryerragunta">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-</p>
-
-- 💻 GitHub: https://github.com/YerraguntaAjayKumar
-- 🔗 LinkedIn: https://linkedin.com/in/ajaykumaryerragunta
-- 🧠 LeetCode: https://leetcode.com/u/I_ajay
-- 📧 Email: yerraguntaajay6543@gmail.com
-
----
-
-# 💻 Tech Stack
-
-## 👨‍💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript" />
-</p>
-
-## 🌐 Web Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,express,mongodb,mysql" />
-</p>
-
-## ⚙️ Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
-</p>
-
----
-
-# 📚 Core Skills
-
+- Full Stack Web Development (MERN Stack)
+- AI-Powered Applications
+- Operating Systems & CPU Scheduling
+- Database Design & Management (MySQL, MongoDB)
+- REST API Development
 - Data Structures & Algorithms
 - Object-Oriented Programming
-- Operating Systems
-- DBMS
-- Computer Networks
-- Cybersecurity
-- Full Stack Development
-- AI Integration
-- REST APIs
+- Problem Solving & Competitive Programming
 
 ---
 
-# 🤖 AI & Emerging Technologies
+## 🧠 Technical Skills
 
-- Generative AI
-- AI-Powered Applications
-- Prompt Engineering
-- AI Integration using APIs
-- LLM-based Assistance Systems
+### 💻 Programming Languages
+`Python` `Java` `C` `C++` `JavaScript`
 
----
+### 🌐 Web Development
+`HTML` `CSS` `Bootstrap` `React.js` `Node.js` `Express.js`
 
-# 💼 Experience
+### 🗄️ Databases
+`MySQL` `MongoDB` `PL/SQL`
 
-## 💻 Student Trainee — Pixel Quest Technologies
-📅 Nov 2024 – May 2025
-
-- Learned Python fundamentals
-- Built mini projects
-- Improved coding and problem-solving skills
+### ⚙️ Tools & Platforms
+`Git` `GitHub` `Linux` `VS Code`
 
 ---
 
-## 📢 Marketing Department Member — Swayam ED-Cell
-📅 Oct 2025 – Present
+## 💼 Professional Experience
 
-- Contributed to event promotions
-- Participated in marketing activities
-- Improved teamwork & communication skills
+### 🧑‍💻 Student Trainee — Pixel Quest Technologies Pvt. Ltd
+**Nov 2024 – May 2025**
 
----
-
-# 📌 Featured Projects
-
----
-
-## 🧪 LabXpert — AI-Powered Smart Lab Platform
-
-### 📖 Overview
-LabXpert is an AI-powered educational platform designed to transform traditional computer laboratories into interactive smart learning environments.
-
-### ✨ Features
-- AI-powered coding assistance
-- Automated attendance system
-- Interactive lab examinations
-- Time-bound coding tests
-- Automated correction system
-- Subject-based games & quizzes
-- Dashboard rankings
-- Problem-solving practice platform
-
-### 🛠️ Technologies Used
-`Python` `Django` `HTML` `CSS` `JavaScript` `Bootstrap` `MySQL` `AI APIs`
+- Built strong foundation in Python programming
+- Developed mini-level software applications
+- Improved problem-solving, debugging, and logic-building skills
+- Exposure to real-world development workflow
 
 ---
 
-## 🖥️ Mini OS — CPU Scheduling Simulator
+### 📢 Marketing & Technical Member — Swayam ED-Cell
+**Oct 2025 – Present**
 
-### 📖 Overview
-A Mini Operating System simulator implementing multiple CPU scheduling algorithms with process management visualization.
-
-### ⚡ Algorithms Implemented
-- FCFS
-- SJF
-- Priority Scheduling
-- Round Robin
-
-### ✨ Features
-- Gantt Chart generation
-- Execution trace visualization
-- Waiting time calculation
-- Turnaround time analysis
-- Queue, Stack & BST integration
-
-### 🛠️ Technologies Used
-`C` `Operating Systems` `Data Structures`
+- Contributed to technical and promotional activities
+- Participated in event coordination and outreach programs
+- Enhanced communication, teamwork, and leadership skills
 
 ---
 
-## 💡 Entrepreneur Hub
-
-### 📖 Overview
-A centralized platform designed to support startups and aspiring entrepreneurs through mentorship, networking, and business management tools.
-
-### ✨ Features
-- Startup management
-- Mentorship support
-- Funding & networking system
-- Business planning assistance
-- Resource sharing platform
-
-### 🛠️ Technologies Used
-`Java` `Java Swing` `MySQL`
+## 📂 Projects (Reverse Chronological Order)
 
 ---
 
-## 🤖 CodeRefine — AI Code Analyzer
+### 🔒 Deadlock Prevention & Recovery Simulator *(Latest Project)*
 
-### 📖 Overview
-CodeRefine is an AI-powered full-stack application that helps developers debug, optimize, and understand code efficiently.
+**Domain:** Operating Systems | System Design | Simulation
 
-### ✨ Features
-- AI-based debugging
-- Performance optimization
-- Code explanation
-- Multi-language support
-- Snippet management
-- Authentication system
-- Real-time code analysis
+#### 📌 Description
+Advanced simulator that demonstrates **deadlock detection, prevention, and recovery techniques** using real OS algorithms.
 
-### 🛠️ Technologies Used
-`React.js` `Node.js` `Express.js` `MongoDB` `Bootstrap` `JWT` `Groq API`
+#### ⚙️ Key Features
+- Banker’s Algorithm (Safe State Detection)
+- Resource Allocation Graph (RAG)
+- Cycle Detection using DFS
+- Deadlock Recovery Mechanism
+- Interactive input-driven simulation
 
----
-
-## 🔒 Deadlock Prevention & Recovery Simulator
-
-### 📖 Overview
-An intelligent simulator demonstrating deadlock prevention, detection, and recovery mechanisms in Operating Systems.
-
-### ⚡ Algorithms Used
-- Banker’s Algorithm
-- Resource Allocation Graph
-- DFS Cycle Detection
-
-### ✨ Features
-- Safe sequence generation
-- Deadlock detection
-- Recovery mechanism
-- Interactive simulation UI
-- Graph-based analysis
-
-### 🛠️ Technologies Used
-`C++` `Python` `Streamlit`
+#### 🛠️ Tech Stack
+`C++` `Python` `Streamlit` `OS Concepts`
 
 ---
 
-# 📜 Certifications
+### 🤖 CodeRefine — AI-Powered Code Intelligence Platform
 
-🏅 Programming in Java — NPTEL  
-🏅 Databases for Developers — Oracle  
-🏅 Cybersecurity Essentials — Cisco  
-🏅 Introduction to Networks — Cisco  
-🏅 Introduction to Linux — The Linux Foundation  
-🏅 Introduction to Generative AI — IBM  
+**Domain:** AI + Full Stack Development
+
+#### 📌 Description
+AI-based developer tool for **code debugging, explanation, and optimization** using LLM integration.
+
+#### ⚙️ Key Features
+- AI Code Debugging & Suggestions
+- Multi-language Support
+- Secure Authentication System
+- Code Snippet Management
+- Real-time Analysis
+
+#### 🛠️ Tech Stack
+`React.js` `Node.js` `Express.js` `MongoDB` `JWT` `Groq API`
 
 ---
 
-# 📊 GitHub Stats
+### 💡 Entrepreneur Hub — Startup Management System
+
+**Domain:** Software Engineering | Business Platform
+
+#### 📌 Description
+Platform to support startups with **idea management, mentorship, and collaboration tools**.
+
+#### ⚙️ Key Features
+- Startup Idea Management
+- Mentorship System
+- Business Collaboration Tools
+- Data Storage & Management
+
+#### 🛠️ Tech Stack
+`Java` `Java Swing` `MySQL` `OOP`
+
+---
+
+### 🖥️ Mini OS — CPU Scheduling Simulator
+
+**Domain:** Operating Systems | Algorithms
+
+#### 📌 Description
+Simulation of CPU scheduling algorithms with visualization and performance analysis.
+
+#### ⚙️ Key Features
+- FCFS, SJF, Priority, Round Robin Scheduling
+- Gantt Chart Visualization
+- Process Queue Management
+- Waiting & Turnaround Time Calculation
+
+#### 🛠️ Tech Stack
+`C` `Data Structures` `Operating Systems`
+
+---
+
+### 🧪 LabXpert — AI Smart Lab Platform *(Foundation Project)*
+
+**Domain:** EdTech | AI Learning System
+
+#### 📌 Description
+AI-powered smart lab system for **interactive learning, attendance automation, and practice enhancement**.
+
+#### ⚙️ Key Features
+- AI-Based Learning Assistance
+- Automated Attendance System
+- Online Lab Exams with Timer
+- Quiz & Gamified Learning System
+- Student Performance Dashboard
+
+#### 🛠️ Tech Stack
+`Python` `Django` `HTML` `CSS` `JavaScript` `Bootstrap` `MySQL`
+
+---
+
+## 📜 Certifications
+
+- 🐧 Linux Foundation — Introduction to Linux  
+- 🤖 IBM — Introduction to Generative AI  
+- 🌐 Cisco — Introduction to Networks  
+- 🔐 Cisco — Cybersecurity Essentials  
+- ☕ NPTEL — Programming in Java  
+- 🗄️ Oracle — Databases for Developers  
+
+---
+
+## 🏆 Achievements
+
+- 🎓 9.68 CGPA in Diploma (CSE)
+- 💻 Built multiple real-world full-stack projects
+- 🧠 Actively practicing Data Structures & Algorithms
+- 🚀 Exploring AI + Software Engineering integration
+- 🌱 Continuous learning in open-source development
+
+---
+
+## 📊 GitHub Analytics
+
+### 🔥 GitHub Stats (Fixed Working Version)
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YerraguntaAjayKumar&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YerraguntaAjayKumar&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YerraguntaAjayKumar&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YerraguntaAjayKumar&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YerraguntaAjayKumar&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YerraguntaAjayKumar&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🏆 Achievements
+## 📈 Currently Learning
 
-- 🎓 Secured **9.68 CGPA** in Diploma (CSE)
-- 💻 Building AI-powered & Full Stack projects
-- 📚 Actively learning DSA & System Design
-- 🌱 Exploring Open Source Contributions
+- MERN Stack (React + Node.js + MongoDB)
+- Advanced Data Structures & Algorithms
+- System Design Basics
+- AI/ML & Generative AI Applications
+- Open Source Contributions
 
 ---
 
-# 📈 Currently Learning
+## 📬 Connect With Me
 
-- MERN Stack Development
-- Data Structures & Algorithms
-- Advanced Java
-- AI/ML Concepts
-- Open Source Contribution
+- 📧 Email: yerraguntaajay6543@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/ajaykumaryerragunta  
+- 💻 GitHub: https://github.com/YerraguntaAjayKumar  
+- 🧠 LeetCode: https://leetcode.com/u/I_ajay  
 
 ---
 
 <h3 align="center">
-✨ Code • Learn • Build • Repeat ✨
+🚀 “Build. Learn. Improve. Repeat.” 🚀
 </h3>
