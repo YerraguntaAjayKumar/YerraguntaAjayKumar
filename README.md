@@ -1,3 +1,4 @@
+
 <h1 align="center">Ajay Kumar Yerragunta</h1>
 
 <h3 align="center">
@@ -12,17 +13,17 @@ Software Engineer | Full Stack Developer (MERN) | JavaScript (Advanced) | AI & S
 
 # ⚡ About Me
 
-🎓 Information Technology Undergraduate — Vasavi College of Engineering  
+🎓 Information Technology Student — Vasavi College of Engineering  
 💡 Diploma in Computer Science Engineering (CGPA: 9.68)  
-🚀 Full Stack Developer focused on scalable applications  
-🧠 Interested in JavaScript, AI Systems, OS, and Databases  
-🎯 Goal: Build real-world impactful software products
+🚀 Full Stack Developer focused on scalable web applications  
+🧠 Strong interest in JavaScript, AI systems, Operating Systems, and Databases  
+🎯 Goal: Build impactful real-world software products
 
 ---
 
-# 🧠 Skills
+# 🧠 Technical Skills
 
-## Languages
+## Programming Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,python,java,c,cpp" />
 </p>
@@ -40,7 +41,7 @@ React.js • Node.js • Express.js • MongoDB • HTML5 • CSS3 • Bootstrap
 
 ---
 
-## Tools
+## Tools & Platforms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 </p>
@@ -51,19 +52,19 @@ Git • GitHub • Linux • VS Code
 
 # 💼 Experience
 
-## Pixel Quest Technologies Pvt. Ltd
-Student Trainee
-- Python fundamentals
-- Mini project development
-- Problem solving & debugging
+## 🧑‍💻 Pixel Quest Technologies Pvt. Ltd
+Student Trainee  
+- Python fundamentals & programming basics  
+- Mini project development  
+- Debugging and problem-solving skills  
 
 ---
 
-## Swayam ED-Cell — Vasavi College of Engineering
-Technical & Marketing Member
-- Event coordination
-- Team collaboration
-- Communication & leadership
+## 📢 Swayam ED-Cell — Vasavi College of Engineering
+Technical & Marketing Member  
+- Event coordination and outreach  
+- Team collaboration  
+- Communication and leadership experience  
 
 ---
 
@@ -71,57 +72,57 @@ Technical & Marketing Member
 
 ---
 
-## 🔒 Deadlock Simulator — Operating Systems
+## 🔒 Deadlock Simulator — Operating Systems Project
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Deadlock%20Simulator-red?style=for-the-badge" />
 </p>
 
-- Banker’s Algorithm
-- Resource Allocation Graph (RAG)
-- Cycle detection using DFS
-- Deadlock recovery system
+- Banker’s Algorithm implementation  
+- Resource Allocation Graph (RAG)  
+- Cycle detection using DFS  
+- Deadlock recovery system  
 
-C++ • Python • Streamlit • OS Concepts
+**Tech Stack:** C++ • Python • Streamlit • OS Concepts
 
 ---
 
-## 🤖 CodeRefine — AI Code Platform
+## 🤖 CodeRefine — AI Code Intelligence Platform
 <p align="center">
   <img src="https://img.shields.io/badge/AI-CodeRefine-blue?style=for-the-badge" />
 </p>
 
-- AI code debugging
-- Multi-language support
-- Authentication system
-- Real-time analysis
+- AI-powered code debugging and optimization  
+- Multi-language support  
+- Authentication system  
+- Real-time code analysis  
 
-React.js • Node.js • Express.js • MongoDB • AI APIs
+**Tech Stack:** React.js • Node.js • Express.js • MongoDB • AI APIs
 
 ---
 
-## 💡 Entrepreneur Hub
+## 💡 Entrepreneur Hub — Startup Ecosystem Platform
 <p align="center">
   <img src="https://img.shields.io/badge/Startup-Hub-green?style=for-the-badge" />
 </p>
 
-- Idea management system
-- Mentorship platform
-- Startup workflow support
+- Startup idea management system  
+- Mentorship and collaboration platform  
+- Innovation workflow system  
 
-Java • Swing • MySQL
+**Tech Stack:** Java • Swing • MySQL
 
 ---
 
-## 🖥️ Mini OS — CPU Scheduler
+## 🖥️ Mini OS — CPU Scheduling Simulator
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Mini%20OS-black?style=for-the-badge" />
 </p>
 
-- FCFS, SJF, Priority, Round Robin
-- Gantt chart visualization
-- Process scheduling simulation
+- FCFS, SJF, Priority, Round Robin algorithms  
+- Gantt chart visualization  
+- Process scheduling simulation  
 
-C • Data Structures • Operating Systems
+**Tech Stack:** C • Data Structures • Operating Systems
 
 ---
 
@@ -130,25 +131,29 @@ C • Data Structures • Operating Systems
   <img src="https://img.shields.io/badge/AI-LabXpert-purple?style=for-the-badge" />
 </p>
 
-- AI learning assistant
-- Attendance automation
-- Online exams system
-- Gamified learning
+- AI-based learning assistant  
+- Automated attendance system  
+- Online lab exams with timer  
+- Gamified quizzes and ranking system  
 
-Python • Django • JavaScript • Bootstrap • MySQL • AI
+**Tech Stack:** Python • Django • JavaScript • Bootstrap • MySQL • AI
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YerraguntaAjayKumar&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YerraguntaAjayKumar&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YerraguntaAjayKumar&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YerraguntaAjayKumar&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=YerraguntaAjayKumar&theme=tokyonight&hide_border=true" />
 </p>
+
 ---
 
 # 📜 Certifications
@@ -164,23 +169,23 @@ Python • Django • JavaScript • Bootstrap • MySQL • AI
 # 🏆 Achievements
 
 - 🎓 Diploma CGPA: 9.68  
-- 🚀 Built full-stack + AI + OS projects  
-- 🧠 Strong DSA, DBMS, OS fundamentals  
-- 💡 Active developer & learner  
+- 🚀 Built multiple full-stack + AI + OS projects  
+- 🧠 Strong foundation in DSA, DBMS, OS  
+- 💡 Active learner in AI and Web Development  
 
 ---
 
-# 📈 Currently Learning
+# 📈 Current Focus
 
-- Advanced JavaScript (ES6+, Async, APIs)
-- MERN Stack Architecture
-- System Design Basics
-- AI Integration in Web Apps
-- Open Source Contribution
+- Advanced JavaScript (ES6+, Async, APIs)  
+- MERN Stack Architecture  
+- System Design Fundamentals  
+- AI Integration in Web Applications  
+- Open Source Contributions  
 
 ---
 
-# 📬 Connect
+# 📬 Connect With Me
 
 - 📧 Email: yerraguntaajay6543@gmail.com  
 - 💼 LinkedIn: https://linkedin.com/in/ajaykumaryerragunta  
