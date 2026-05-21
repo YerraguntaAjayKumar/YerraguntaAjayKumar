@@ -1,7 +1,7 @@
 <h1 align="center">Ajay Kumar Yerragunta</h1>
 
 <h3 align="center">
-Software Engineer | Full Stack Developer (MERN) | AI Enthusiast | Problem Solver
+🚀 Software Engineer | Full Stack (MERN) | JavaScript Advanced | AI & System Design Enthusiast
 </h3>
 
 <p align="center">
@@ -10,185 +10,150 @@ Software Engineer | Full Stack Developer (MERN) | AI Enthusiast | Problem Solver
 
 ---
 
-## 📌 Professional Summary
+## ⚡ Tech Stack (Dynamic Visual Skills)
 
-Motivated **Information Technology undergraduate** with strong foundation in **Computer Science Engineering** and hands-on experience in **full-stack development, AI-based systems, operating systems, and database applications**.
+### 👨‍💻 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,java,c,cpp" />
+</p>
 
-Passionate about building scalable applications using modern technologies and continuously improving skills in **software engineering, system design, and artificial intelligence**.
+### 🌐 Full Stack Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css,bootstrap" />
+</p>
+
+### ⚙️ Tools & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+</p>
 
 ---
 
-## 🚀 Core Expertise (SEO Keywords)
+## 🧠 Core Engineering Expertise (SEO Keywords)
 
-- Full Stack Web Development (MERN Stack)
-- AI-Powered Applications
-- Operating Systems & CPU Scheduling
-- Database Design & Management (MySQL, MongoDB)
+- Advanced JavaScript (ES6+, Async, DOM, APIs)
+- MERN Stack Architecture
 - REST API Development
+- AI Integration in Web Applications
+- Operating Systems (CPU Scheduling, Deadlocks)
+- Database Design (SQL + NoSQL)
 - Data Structures & Algorithms
-- Object-Oriented Programming
-- Problem Solving & Competitive Programming
 
 ---
 
-## 🧠 Technical Skills
+## 💼 Experience Timeline
 
-### 💻 Programming Languages
-`Python` `Java` `C` `C++` `JavaScript`
-
-### 🌐 Web Development
-`HTML` `CSS` `Bootstrap` `React.js` `Node.js` `Express.js`
-
-### 🗄️ Databases
-`MySQL` `MongoDB` `PL/SQL`
-
-### ⚙️ Tools & Platforms
-`Git` `GitHub` `Linux` `VS Code`
+### 🧑‍💻 Pixel Quest Technologies Pvt. Ltd
+- Python Development Training
+- Mini Project Implementation
+- Problem Solving & Debugging Skills
+- Software Development Workflow Exposure
 
 ---
 
-## 💼 Professional Experience
-
-### 🧑‍💻 Student Trainee — Pixel Quest Technologies Pvt. Ltd
-**Nov 2024 – May 2025**
-
-- Built strong foundation in Python programming
-- Developed mini-level software applications
-- Improved problem-solving, debugging, and logic-building skills
-- Exposure to real-world development workflow
+### 📢 Swayam ED-Cell (Vasavi College of Engineering)
+- Technical & Event Coordination
+- Marketing & Outreach Activities
+- Team Collaboration & Leadership
 
 ---
 
-### 📢 Marketing & Technical Member — Swayam ED-Cell
-**Oct 2025 – Present**
-
-- Contributed to technical and promotional activities
-- Participated in event coordination and outreach programs
-- Enhanced communication, teamwork, and leadership skills
+## 📂 Featured Projects
 
 ---
 
-## 📂 Projects (Reverse Chronological Order)
+### 🤖 CodeRefine — AI Developer Platform
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Code%20Analyzer-blue?style=for-the-badge&logo=openai" />
+</p>
+
+- AI-powered code debugging & optimization
+- Multi-language support
+- Authentication + snippet system
+- Real-time analysis engine
+
+**Stack:** React • Node.js • Express • MongoDB • AI APIs
 
 ---
 
-### 🔒 Deadlock Prevention & Recovery Simulator *(Latest Project)*
+### 🔒 Deadlock Simulator — OS Intelligence System
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-Deadlock%20Simulator-red?style=for-the-badge&logo=linux" />
+</p>
 
-**Domain:** Operating Systems | System Design | Simulation
-
-#### 📌 Description
-Advanced simulator that demonstrates **deadlock detection, prevention, and recovery techniques** using real OS algorithms.
-
-#### ⚙️ Key Features
-- Banker’s Algorithm (Safe State Detection)
+- Banker’s Algorithm implementation
 - Resource Allocation Graph (RAG)
-- Cycle Detection using DFS
-- Deadlock Recovery Mechanism
-- Interactive input-driven simulation
+- Cycle detection using DFS
+- Deadlock recovery system
 
-#### 🛠️ Tech Stack
-`C++` `Python` `Streamlit` `OS Concepts`
+**Stack:** C++ • Python • Streamlit
 
 ---
 
-### 🤖 CodeRefine — AI-Powered Code Intelligence Platform
+### 💡 Entrepreneur Hub — Startup Platform
+<p align="center">
+  <img src="https://img.shields.io/badge/Startup-Hub-green?style=for-the-badge&logo=java" />
+</p>
 
-**Domain:** AI + Full Stack Development
+- Idea sharing system
+- Mentorship module
+- Startup collaboration tools
 
-#### 📌 Description
-AI-based developer tool for **code debugging, explanation, and optimization** using LLM integration.
-
-#### ⚙️ Key Features
-- AI Code Debugging & Suggestions
-- Multi-language Support
-- Secure Authentication System
-- Code Snippet Management
-- Real-time Analysis
-
-#### 🛠️ Tech Stack
-`React.js` `Node.js` `Express.js` `MongoDB` `JWT` `Groq API`
-
----
-
-### 💡 Entrepreneur Hub — Startup Management System
-
-**Domain:** Software Engineering | Business Platform
-
-#### 📌 Description
-Platform to support startups with **idea management, mentorship, and collaboration tools**.
-
-#### ⚙️ Key Features
-- Startup Idea Management
-- Mentorship System
-- Business Collaboration Tools
-- Data Storage & Management
-
-#### 🛠️ Tech Stack
-`Java` `Java Swing` `MySQL` `OOP`
+**Stack:** Java • Swing • MySQL
 
 ---
 
 ### 🖥️ Mini OS — CPU Scheduling Simulator
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-Mini%20Simulator-black?style=for-the-badge&logo=windows" />
+</p>
 
-**Domain:** Operating Systems | Algorithms
+- FCFS, SJF, Priority, Round Robin
+- Gantt chart visualization
+- Process scheduling simulation
 
-#### 📌 Description
-Simulation of CPU scheduling algorithms with visualization and performance analysis.
-
-#### ⚙️ Key Features
-- FCFS, SJF, Priority, Round Robin Scheduling
-- Gantt Chart Visualization
-- Process Queue Management
-- Waiting & Turnaround Time Calculation
-
-#### 🛠️ Tech Stack
-`C` `Data Structures` `Operating Systems`
+**Stack:** C • Data Structures • OS Concepts
 
 ---
 
-### 🧪 LabXpert — AI Smart Lab Platform *(Foundation Project)*
+### 🧪 LabXpert — AI Smart Lab System
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-LabXpert-purple?style=for-the-badge&logo=google" />
+</p>
 
-**Domain:** EdTech | AI Learning System
+- AI-powered learning assistant
+- Automated attendance system
+- Online lab exams with timer
+- Gamified quizzes & ranking system
 
-#### 📌 Description
-AI-powered smart lab system for **interactive learning, attendance automation, and practice enhancement**.
-
-#### ⚙️ Key Features
-- AI-Based Learning Assistance
-- Automated Attendance System
-- Online Lab Exams with Timer
-- Quiz & Gamified Learning System
-- Student Performance Dashboard
-
-#### 🛠️ Tech Stack
-`Python` `Django` `HTML` `CSS` `JavaScript` `Bootstrap` `MySQL`
+**Stack:** Python • Django • JS • Bootstrap • MySQL
 
 ---
 
 ## 📜 Certifications
 
-- 🐧 Linux Foundation — Introduction to Linux  
-- 🤖 IBM — Introduction to Generative AI  
-- 🌐 Cisco — Introduction to Networks  
-- 🔐 Cisco — Cybersecurity Essentials  
-- ☕ NPTEL — Programming in Java  
-- 🗄️ Oracle — Databases for Developers  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,python,java,mysql" />
+</p>
+
+- Linux Foundation — Linux Essentials  
+- IBM — Generative AI  
+- Cisco — Networking & Cybersecurity  
+- NPTEL — Java Programming  
+- Oracle — Database Systems  
 
 ---
 
 ## 🏆 Achievements
 
-- 🎓 9.68 CGPA in Diploma (CSE)
-- 💻 Built multiple real-world full-stack projects
-- 🧠 Actively practicing Data Structures & Algorithms
-- 🚀 Exploring AI + Software Engineering integration
-- 🌱 Continuous learning in open-source development
+- 🎓 Diploma: 9.68 CGPA (CSE)
+- 🚀 Built AI + Full Stack + OS-level projects
+- 🧠 Strong DSA & System Design foundation
+- 💡 Active problem solver & developer
 
 ---
 
 ## 📊 GitHub Analytics
-
-### 🔥 GitHub Stats (Fixed Working Version)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YerraguntaAjayKumar&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -204,12 +169,12 @@ AI-powered smart lab system for **interactive learning, attendance automation, a
 
 ---
 
-## 📈 Currently Learning
+## 📈 Current Focus
 
-- MERN Stack (React + Node.js + MongoDB)
-- Advanced Data Structures & Algorithms
+- Advanced JavaScript (Async, Event Loop, APIs)
+- MERN Stack Scaling
+- AI Integration in Web Apps
 - System Design Basics
-- AI/ML & Generative AI Applications
 - Open Source Contributions
 
 ---
@@ -224,5 +189,5 @@ AI-powered smart lab system for **interactive learning, attendance automation, a
 ---
 
 <h3 align="center">
-🚀 “Build. Learn. Improve. Repeat.” 🚀
+⚡ Build • Learn • Scale • Repeat ⚡
 </h3>
