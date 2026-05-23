@@ -3,13 +3,10 @@
 <h3 align="center">
 Software Engineer | Full Stack Developer (MERN) | JavaScript (Advanced) | AI & System Design Enthusiast
 </h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YerraguntaAjayKumar&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
-
 ---
-
 # ⚡ About Me
 
 🎓 Information Technology Student — Vasavi College of Engineering  
