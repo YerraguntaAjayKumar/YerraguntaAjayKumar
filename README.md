@@ -1,5 +1,4 @@
 <h1 align="center">Ajay Kumar Yerragunta</h1>
-
 <h3 align="center">
 Software Engineer | Full Stack Developer (MERN) | JavaScript (Advanced) | AI & System Design Enthusiast
 </h3>
