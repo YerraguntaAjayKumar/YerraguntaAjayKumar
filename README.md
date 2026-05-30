@@ -5,6 +5,7 @@ Software Engineer | Full Stack Developer (MERN) | JavaScript (Advanced) | AI & S
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YerraguntaAjayKumar&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
+
 ---
 # ⚡ About Me
 
